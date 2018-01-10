@@ -1,0 +1,7 @@
+.vscode/
+!tasks.json
+rawImage/
+*.epub
+*.html
+*.docx
+!.gitkeep
